@@ -13,6 +13,7 @@
 #include <string>
 #include <string_view>
 #include <optional>
+#include <mutex>
 
 namespace Slic3r {
 

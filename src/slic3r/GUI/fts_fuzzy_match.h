@@ -34,7 +34,7 @@
 #include <cstdint> // uint8_t
 #include <ctype.h> // ::tolower, ::toupper
 #include <cstring> // memcpy
-
+#include <cwctype>
 #include <cstdio>
 
 #include "../Utils/ASCIIFolding.hpp"
